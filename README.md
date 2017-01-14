@@ -1,4 +1,4 @@
-# gitstudy　こんふＲくと
+﻿# gitstudy　こんふＲくと
 
 #Gitの勉強用に更新します。
 ```go
@@ -10,3 +10,5 @@ func main(){
 	fmt.Println("ハローワールド")
 }
 ```
+
+更新
