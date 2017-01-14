@@ -1,6 +1,12 @@
 # gitstudy
 
 #Gitの勉強用に更新します。
-```
-study
+```go
+package main
+
+import "fmt"
+
+func main(){
+	fmt.Println("ハローワールド")
+}
 ```
